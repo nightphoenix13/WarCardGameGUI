@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.pdb
